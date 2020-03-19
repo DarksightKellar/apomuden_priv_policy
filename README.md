@@ -2,7 +2,7 @@
 
 > Updataed: 19th March, 2020
 
-GeoCEMS Lab built the Apomuden app as a Free app. APOMUDEN is provided by GeoCEMS Lab and is intended for use as is.
+GeoCEMS Lab built the Apomuden app. APOMUDEN is provided by GeoCEMS Lab and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decides to use our Service.
 
